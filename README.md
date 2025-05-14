@@ -44,8 +44,6 @@ To run the Webapp, Clone Git Repo and run the following:
 
  # Team:
 
- Chaitanya Changala
+Gautam Sharma
 
- Sriya Choudary Yalavarthy
-
- Shubhang Vagvala 
+Rajarshi Datta
